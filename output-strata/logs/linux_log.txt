@@ -1,0 +1,223 @@
+[ 2018-03-21 15:16:51 / linux        /   2845 /     53 ]: entry point: strata cleanup
+[ 2018-03-21 15:17:02 / linux        /   3101 /     53 ]: entry point: strata continue
+[ 2018-03-21 15:17:19 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:17:20 / linux        /   3101 /     60 ]: task end: 'initial search for vpackssdw_xmm_xmm_xmm with budget=200000' with result 'Initial search success'
+[ 2018-03-21 15:17:36 / linux        /   3101 /     61 ]: task end: 'initial search for packssdw_xmm_xmm with budget=200000' with result 'Initial search timeout'
+[ 2018-03-21 15:17:57 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:17:57 / linux        /   3101 /     84 ]: task end: 'initial search for packssdw_xmm_xmm with budget=400000' with result 'Initial search success'
+[ 2018-03-21 15:18:02 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:18:27 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:18:45 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:18:45 / linux        /   3101 /     79 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:19:12 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:19:12 / linux        /   3101 /    101 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:19:24 / linux        /   3101 /     60 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:19:52 / linux        /   3101 /    126 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:20:06 / linux        /   3101 /     60 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:20:06 / linux        /   3101 /     60 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:20:33 / linux        /   3101 /    126 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:20:33 / linux        /   3101 /    126 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:20:35 / linux        /   3101 /     61 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:21:15 / linux        /   3101 /     61 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:21:15 / linux        /   3101 /     61 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:21:20 / linux        /   3101 /     84 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:22:02 / linux        /   3101 /     84 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:22:02 / linux        /   3101 /     84 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:22:12 / linux        /   3101 /     79 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:22:54 / linux        /   3101 /     79 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:22:54 / linux        /   3101 /     79 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:23:37 / linux        /   3101 /     60 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:23:54 / linux        /   3101 /    101 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:24:18 / linux        /   3101 /     60 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:24:18 / linux        /   3101 /     60 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:24:36 / linux        /   3101 /    101 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:24:36 / linux        /   3101 /    101 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:25:44 / linux        /   3101 /    126 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:26:44 / linux        /   3101 /    126 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:26:44 / linux        /   3101 /    126 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 1 equivalence classes'
+[ 2018-03-21 15:26:47 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:27:47 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:27:47 / linux        /   3101 /     61 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 1 equivalence classes'
+[ 2018-03-21 15:28:37 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:29:10 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:29:37 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:30:11 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:30:37 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:30:37 / linux        /   3101 /     79 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 2 equivalence classes'
+[ 2018-03-21 15:31:11 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:31:11 / linux        /   3101 /     84 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 2 equivalence classes'
+[ 2018-03-21 15:31:55 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:32:05 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:32:55 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:33:05 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:33:55 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:34:06 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:34:55 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: unknown
+[ 2018-03-21 15:34:55 / linux        /   3101 /    101 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 3 equivalence classes'
+[ 2018-03-21 15:35:06 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:35:06 / linux        /   3101 /     60 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 3 equivalence classes'
+[ 2018-03-21 15:35:45 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:36:45 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: unknown
+[ 2018-03-21 15:37:32 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:37:32 / linux        /   3101 /     61 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:39:34 / linux        /   3101 /    126 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:40:13 / linux        /   3101 /    126 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:40:13 / linux        /   3101 /    126 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:43:57 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:44:36 / linux        /   3101 /     79 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:44:36 / linux        /   3101 /     79 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:45:13 / linux        /   3101 /    101 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:45:31 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:45:55 / linux        /   3101 /    101 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:45:55 / linux        /   3101 /    101 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:46:12 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:46:12 / linux        /   3101 /     84 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:46:24 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:47:02 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:47:02 / linux        /   3101 /     60 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:48:17 / linux        /   3101 /     61 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:49:00 / linux        /   3101 /     61 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:49:00 / linux        /   3101 /     61 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:50:29 / linux        /   3101 /     79 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:51:10 / linux        /   3101 /     79 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:51:10 / linux        /   3101 /     79 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:51:39 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:52:21 / linux        /   3101 /    101 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:52:21 / linux        /   3101 /    101 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:53:01 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+[ 2018-03-21 15:53:41 / linux        /   3101 /     84 ]: verification for packssdw_xmm_xmm: verified
+equivalence class size and score for packssdw_xmm_xmm: 3 / (0, 0, 92), 3 / (0, 0, 92), 3 / (0, 0, 92), 6 / (0, 0, 92)
+[ 2018-03-21 15:53:41 / linux        /   3101 /     84 ]: task end: 'secondary search for packssdw_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:54:03 / linux        /   3101 /    126 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:54:39 / linux        /   3101 /    126 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:54:39 / linux        /   3101 /    126 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:54:48 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:55:23 / linux        /   3101 /     60 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:55:23 / linux        /   3101 /     60 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:57:32 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+[ 2018-03-21 15:58:08 / linux        /   3101 /     61 ]: verification for vpackssdw_xmm_xmm_xmm: verified
+equivalence class size and score for vpackssdw_xmm_xmm_xmm: 11 / (0, 0, 91), 1 / (0, 0, 105), 1 / (0, 0, 105), 2 / (0, 0, 105)
+[ 2018-03-21 15:58:08 / linux        /   3101 /     61 ]: task end: 'secondary search for vpackssdw_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 15:59:18 / linux        /   6293 /     51 ]: entry point: strata cleanup
+[ 2018-03-21 15:59:26 / linux        /   6475 /     52 ]: entry point: strata continue
+[ 2018-03-21 15:59:46 / linux        /   6475 /     59 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 15:59:46 / linux        /   6475 /     59 ]: task end: 'initial search for vptest_xmm_xmm with budget=369290' with result 'Initial search success'
+[ 2018-03-21 15:59:52 / linux        /   6475 /     60 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 15:59:52 / linux        /   6475 /     60 ]: task end: 'initial search for ptest_xmm_xmm with budget=200387' with result 'Initial search success'
+[ 2018-03-21 16:00:25 / linux        /   6475 /     91 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:00:30 / linux        /   6475 /     91 ]: verification for ptest_xmm_xmm: verified
+equivalence class size and score for ptest_xmm_xmm: 2 / (0, 0, 25)
+[ 2018-03-21 16:00:30 / linux        /   6475 /     91 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:00:35 / linux        /   6475 /     78 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:00:41 / linux        /   6475 /     78 ]: verification for vptest_xmm_xmm: verified
+equivalence class size and score for vptest_xmm_xmm: 2 / (0, 0, 25)
+[ 2018-03-21 16:00:41 / linux        /   6475 /     78 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:01:52 / linux        /   6843 /     50 ]: entry point: strata cleanup
+[ 2018-03-21 16:02:05 / linux        /   7021 /     50 ]: entry point: strata continue
+[ 2018-03-21 16:02:37 / linux        /   7021 /     57 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:02:37 / linux        /   7021 /     57 ]: task end: 'initial search for vptest_xmm_xmm with budget=452196' with result 'Initial search success'
+[ 2018-03-21 16:02:45 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:02:45 / linux        /   7021 /     58 ]: task end: 'initial search for ptest_xmm_xmm with budget=321227' with result 'Initial search success'
+[ 2018-03-21 16:03:05 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:03:11 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:03:11 / linux        /   7021 /     76 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:03:31 / linux        /   7021 /    106 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:03:37 / linux        /   7021 /    106 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:03:37 / linux        /   7021 /    106 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:03:57 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:04:00 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:04:03 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:04:03 / linux        /   7021 /     89 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:04:06 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:04:06 / linux        /   7021 /    123 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:04:53 / linux        /   7021 /     58 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:04:59 / linux        /   7021 /     58 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:04:59 / linux        /   7021 /     58 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:05:52 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:06:00 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:06:00 / linux        /   7021 /     76 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:07:15 / linux        /   7021 /    106 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:07:21 / linux        /   7021 /    106 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:07:21 / linux        /   7021 /    106 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:07:33 / linux        /   7021 /     89 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:07:39 / linux        /   7021 /     89 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:07:39 / linux        /   7021 /     89 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:07:41 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:07:47 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:07:47 / linux        /   7021 /     57 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:08:11 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:08:17 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:08:17 / linux        /   7021 /    123 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:08:22 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:08:28 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:08:28 / linux        /   7021 /     58 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:09:09 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:09:15 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:09:15 / linux        /   7021 /     76 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:09:25 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:09:31 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:09:31 / linux        /   7021 /    106 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:09:59 / linux        /   7021 /     89 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:10:05 / linux        /   7021 /     89 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:10:05 / linux        /   7021 /     89 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:10:14 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:10:20 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:10:20 / linux        /   7021 /     57 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:10:53 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:10:59 / linux        /   7021 /    123 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:10:59 / linux        /   7021 /    123 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:11:00 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:11:06 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:11:06 / linux        /   7021 /     58 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:11:41 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:11:46 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:11:46 / linux        /   7021 /    106 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:11:52 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:11:58 / linux        /   7021 /     76 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:11:58 / linux        /   7021 /     76 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:12:29 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:12:34 / linux        /   7021 /     57 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:12:35 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:12:35 / linux        /   7021 /     89 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:12:41 / linux        /   7021 /     57 ]: verification for vptest_xmm_xmm: unknown
+[ 2018-03-21 16:12:41 / linux        /   7021 /     57 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 1 equivalence classes'
+[ 2018-03-21 16:13:36 / linux        /   7021 /     58 ]: verification for vptest_xmm_xmm: verified
+[ 2018-03-21 16:13:41 / linux        /   7021 /    123 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:13:41 / linux        /   7021 /     58 ]: verification for vptest_xmm_xmm: verified
+equivalence class size and score for vptest_xmm_xmm: 14 / (0, 0, 25), 1 / (0, 0, 29)
+[ 2018-03-21 16:13:41 / linux        /   7021 /     58 ]: task end: 'secondary search for vptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:13:49 / linux        /   7021 /    123 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:13:49 / linux        /   7021 /    123 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 1 equivalence classes'
+[ 2018-03-21 16:14:14 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:14:19 / linux        /   7021 /    106 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:14:19 / linux        /   7021 /    106 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:14:28 / linux        /   7021 /     76 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:14:35 / linux        /   7021 /     76 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:14:42 / linux        /   7021 /     76 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:14:42 / linux        /   7021 /     76 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 2 equivalence classes'
+[ 2018-03-21 16:14:51 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:14:57 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:15:04 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:15:11 / linux        /   7021 /     89 ]: verification for ptest_xmm_xmm: unknown
+[ 2018-03-21 16:15:11 / linux        /   7021 /     89 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 3 equivalence classes'
+[ 2018-03-21 16:15:22 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:15:28 / linux        /   7021 /     57 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:15:28 / linux        /   7021 /     57 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:15:42 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+[ 2018-03-21 16:15:47 / linux        /   7021 /     58 ]: verification for ptest_xmm_xmm: verified
+equivalence class size and score for ptest_xmm_xmm: 12 / (0, 0, 25), 1 / (0, 0, 27), 1 / (0, 0, 29), 1 / (0, 0, 29)
+[ 2018-03-21 16:15:47 / linux        /   7021 /     58 ]: task end: 'secondary search for ptest_xmm_xmm with budget=10000000' with result 'Secondary search success: New program is correct'
+[ 2018-03-21 16:21:31 / linux        /   8872 /     53 ]: entry point: strata cleanup
+[ 2018-03-21 16:23:26 / linux        /   9132 /     52 ]: entry point: strata continue
+[ 2018-03-21 16:24:14 / linux        /   9132 /     60 ]: task end: 'initial search for packsswb_xmm_xmm with budget=200000' with result 'Initial search timeout'
+[ 2018-03-21 16:24:16 / linux        /   9132 /     59 ]: task end: 'initial search for vpacksswb_xmm_xmm_xmm with budget=200000' with result 'Initial search timeout'
+[ 2018-03-21 16:24:47 / linux        /   9132 /     75 ]: verification for vpacksswb_xmm_xmm_xmm: verified
+[ 2018-03-21 16:24:47 / linux        /   9132 /     75 ]: task end: 'initial search for vpacksswb_xmm_xmm_xmm with budget=400000' with result 'Initial search success'
+[ 2018-03-21 16:25:44 / linux        /   9132 /     70 ]: task end: 'initial search for packsswb_xmm_xmm with budget=400000' with result 'Initial search timeout'
+[ 2018-03-21 16:28:09 / linux        /   9132 /     88 ]: verification for vpacksswb_xmm_xmm_xmm: verified
+[ 2018-03-21 16:28:41 / linux        /   9132 /     93 ]: task end: 'initial search for packsswb_xmm_xmm with budget=800000' with result 'Initial search timeout'
+[ 2018-03-21 16:29:09 / linux        /   9132 /     88 ]: verification for vpacksswb_xmm_xmm_xmm: unknown
+[ 2018-03-21 16:29:09 / linux        /   9132 /     88 ]: task end: 'secondary search for vpacksswb_xmm_xmm_xmm with budget=10000000' with result 'Secondary search success: SMT solver returned unknown while testing against 1 equivalence classes'
+[ 2018-03-21 16:34:12 / linux        /   9132 /     60 ]: task end: 'initial search for packsswb_xmm_xmm with budget=1600000' with result 'Initial search timeout'
+[ 2018-03-21 16:34:52 / linux        /   9132 /     75 ]: verification for packsswb_xmm_xmm: verified
+[ 2018-03-21 16:34:53 / linux        /   9132 /     75 ]: task end: 'initial search for packsswb_xmm_xmm with budget=3200000' with result 'Initial search success'

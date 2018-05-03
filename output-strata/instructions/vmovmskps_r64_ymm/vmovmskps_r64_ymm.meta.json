@@ -1,0 +1,62 @@
+{
+  "def_in":"{ %ymm1 }",
+  "live_out":"{ %rbx }",
+  "def_in_formal":"{ %ymm1 }",
+  "live_out_formal":"{ %rbx }",
+  "search_without_uif":false,
+  "data":[
+    
+  ],
+  "initial_searches":[
+    {
+      "success":false,
+      "budget":200000,
+      "iterations":200000,
+      "start_ptime":2
+    },
+    {
+      "success":false,
+      "budget":400000,
+      "iterations":400000,
+      "start_ptime":2
+    },
+    {
+      "success":false,
+      "budget":800000,
+      "iterations":800000,
+      "start_ptime":2
+    },
+    {
+      "success":false,
+      "budget":1600000,
+      "iterations":1600000,
+      "start_ptime":2
+    },
+    {
+      "success":false,
+      "budget":3200000,
+      "iterations":3200000,
+      "start_ptime":2
+    },
+    {
+      "success":false,
+      "budget":5689898,
+      "iterations":5689898,
+      "start_ptime":5
+    },
+    {
+      "success":false,
+      "budget":11379796,
+      "iterations":11379796,
+      "start_ptime":5
+    }
+  ],
+  "secondary_searches":[
+    
+  ],
+  "equivalence_classes":{
+    "unorderedClasses":[
+      
+    ]
+  }
+}

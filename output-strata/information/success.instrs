@@ -1,0 +1,8 @@
+vpacksswb_ymm_ymm_ymm
+vzeroall
+vmovaps_xmm_xmm
+vmovupd_xmm_xmm
+vmovapd_xmm_xmm
+vmovdqu_xmm_xmm
+vmovups_xmm_xmm
+vmovdqa_xmm_xmm
