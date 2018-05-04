@@ -1,3 +1,0 @@
-[submodule "insruction-summary"]
-	path = insruction-summary
-	url = git@github.com:sdasgup3/x86-64-instruction-summary.git
